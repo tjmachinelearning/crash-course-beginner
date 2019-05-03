@@ -3,7 +3,6 @@ import numpy as np
 from keras.utils import np_utils
 from mnist import MNIST
 from matplotlib import pyplot as plt
-from PIL import Image
 
 def getData():
 	# This loads in the character datasets that we want to interpret
